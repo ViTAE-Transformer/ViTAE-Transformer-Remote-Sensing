@@ -1,4 +1,4 @@
-<h1 align="left"> An Empirical Study of Remote Sensing Pretraining </h1> 
+<h1 align="center"> An Empirical Study of Remote Sensing Pretraining </h1> 
 
 <p align="center">
   <a href="#updates">Updates</a> |
