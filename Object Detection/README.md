@@ -10,13 +10,13 @@
 
 ## Current applications
 
-> **Scene Recognition: Please see [Remote Sensing Pretraining for Scene Recognition](https://github.com/DotWang/Remote-Sensing-Pretraining/tree/master/Pretraining%20%26%20SceneRecoginition)**;
+> **Scene Recognition: Please see [Remote Sensing Pretraining for Scene Recognition](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing/tree/main/Pretraining%20%26%20SceneRecoginition)**;
 
-> **Sementic Segmentation: Please see [Remote Sensing Pretraining for Semantic Segmentation](https://github.com/DotWang/Remote-Sensing-Pretraining/tree/master/Semantic%20Segmentation)**;
+> **Sementic Segmentation: Please see [Remote Sensing Pretraining for Semantic Segmentation](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing/tree/main/Semantic%20Segmentation)**;
 
 > **Object Detection: Please see [Usage](#usage)** for a quick start;
 
-> **Change Detection: Please see [Remote Sensing Pretraining for Change Detection](https://github.com/DotWang/Remote-Sensing-Pretraining/tree/master/Change%20Detection)**;
+> **Change Detection: Please see [Remote Sensing Pretraining for Change Detection](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing/tree/main/Change%20Detection)**;
 
 ## Updates
 
@@ -92,11 +92,11 @@ python tools/test.py configs/obb/oriented_rcnn/faster_rcnn_orpn_our_rsp_vitae_fp
 
 ## Other Links
 
-> **Scene Recognition: Please see [Remote Sensing Pretraining for Scene Recognition](https://github.com/DotWang/Remote-Sensing-Pretraining/tree/master/Pretraining%20%26%20SceneRecoginition)**;
+> **Scene Recognition: Please see [Remote Sensing Pretraining for Scene Recognition](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing/tree/main/Pretraining%20%26%20SceneRecoginition)**;
 
-> **Sementic Segmentation: Please see [Remote Sensing Pretraining for Semantic Segmentation](https://github.com/DotWang/Remote-Sensing-Pretraining/tree/master/Semantic%20Segmentation)**;
+> **Sementic Segmentation: Please see [Remote Sensing Pretraining for Semantic Segmentation](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing/tree/main/Semantic%20Segmentation)**;
 
-> **Change Detection: Please see [Remote Sensing Pretraining for Change Detection](https://github.com/DotWang/Remote-Sensing-Pretraining/tree/master/Change%20Detection)**;
+> **Change Detection: Please see [Remote Sensing Pretraining for Change Detection](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing/tree/main/Change%20Detection)**;
 
 ## Statement
 
