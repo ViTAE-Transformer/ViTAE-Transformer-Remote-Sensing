@@ -10,13 +10,13 @@
 
 ## Current applications
 
-> **Scene Recognition: Please see [Remote Sensing Pretraining for Scene Recognition](https://github.com/DotWang/Remote-Sensing-Pretraining/tree/master/Pretraining%20%26%20SceneRecoginition)**;
+> **Scene Recognition: Please see [Remote Sensing Pretraining for Scene Recognition](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing/tree/main/Pretraining%20%26%20SceneRecoginition)**;
 
 > **Sementic Segmentation: Please see [Usage](#usage) for a quick start**;
 
-> **Object Detection: Please see [Remote Sensing Pretraining for Object Detection](https://github.com/DotWang/Remote-Sensing-Pretraining/tree/master/Object%20Detection)**;
+> **Object Detection: Please see [Remote Sensing Pretraining for Object Detection](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing/tree/main/Object%20Detection)**;
 
-> **Change Detection: Please see [Remote Sensing Pretraining for Change Detection](https://github.com/DotWang/Remote-Sensing-Pretraining/tree/master/Change%20Detection)**;
+> **Change Detection: Please see [Remote Sensing Pretraining for Change Detection](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing/tree/main/Change%20Detection)**;
 
 ## Updates
 
@@ -82,11 +82,11 @@ python tools/test.py configs/swin/upernet_swin_tiny_patch4_window7_896x896_80k_i
 
 ## Other Links
 
-> **Scene Recognition: Please see [Remote Sensing Pretraining for Scene Recognition](https://github.com/DotWang/Remote-Sensing-Pretraining/tree/master/Pretraining%20%26%20SceneRecoginition)**;
+> **Scene Recognition: Please see [Remote Sensing Pretraining for Scene Recognition](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing/tree/main/Pretraining%20%26%20SceneRecoginition)**;
 
-> **Object Detection: Please see [Remote Sensing Pretraining for Object Detection](https://github.com/DotWang/Remote-Sensing-Pretraining/tree/master/Object%20Detection)**;
+> **Object Detection: Please see [Remote Sensing Pretraining for Object Detection](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing/tree/main/Object%20Detection)**;
 
-> **Change Detection: Please see [Remote Sensing Pretraining for Change Detection](https://github.com/DotWang/Remote-Sensing-Pretraining/tree/master/Change%20Detection)**;
+> **Change Detection: Please see [Remote Sensing Pretraining for Change Detection](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing/tree/main/Change%20Detection)**;
 
 ## Statement
 
