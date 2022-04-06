@@ -1,0 +1,25 @@
+{
+    "load_type": "pkl",
+    "img_dir": "data/HRSC/test/image",
+    "ann_dir": "data/HRSC/test/pkl",
+    "classes": "dior",
+    "prior_annfile": null,
+    "merge_type": "addition",
+    "load_nproc": 10,
+
+    "skip_empty": false,
+    "random_vis": false,
+    "ids": null,
+    "show_off": true,
+    "save_dir": "data/HRSC/test/visualization",
+    "vis_nproc": 10,
+
+    "shown_btype": null,
+    "shown_names": "./vis_configs/hrsc/short_names.txt",
+    "score_thr": 0.2,
+    "colors": "green",
+    "thickness": 3.0,
+    "text_off": false,
+    "font_size": 10,
+    "wait_time": 0
+}

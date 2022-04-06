@@ -1,0 +1,25 @@
+{
+    "load_type": "dota_submission",
+    "img_dir": "data/DOTA1_0/submission/image",
+    "ann_dir": "data/DOTA1_0/submission/labelTxt",
+    "classes": "dota1.0",
+    "prior_annfile": null,
+    "merge_type": "addition",
+    "load_nproc": 10,
+
+    "skip_empty": false,
+    "random_vis": false,
+    "ids": null,
+    "show_off": true,
+    "save_dir": "data/submission/visualization",
+    "vis_nproc": 10,
+
+    "shown_btype": null,
+    "shown_names": "./vis_configs/dota1_0/short_names.txt",
+    "score_thr": 0.2,
+    "colors": "./vis_configs/dota1_0/colors.txt",
+    "thickness": 3.0,
+    "text_off": false,
+    "font_size": 10,
+    "wait_time": 0
+}

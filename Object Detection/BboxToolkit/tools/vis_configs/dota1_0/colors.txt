@@ -1,0 +1,15 @@
+#FF8000 $large_vehicle
+#937374 $swimming-pool
+#0000FF $helicopter
+#00FF00 $bridge
+#A52A2A $plane
+#FF00FF $ship
+#FFFACD $soccer-ball-field
+#FFC1C1 $basketball-court
+#FF0000 $ground-track-field
+#8A2BE2 $small-vehicle
+#BDB76B $baseball-diamond
+#00FFFF $tennis-court
+#008B8B $roundabout
+#003399 $storage-tank
+#FFFF00 $harbor

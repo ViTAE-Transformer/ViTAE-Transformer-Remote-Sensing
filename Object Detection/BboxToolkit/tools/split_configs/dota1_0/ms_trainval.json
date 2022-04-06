@@ -1,0 +1,33 @@
+{
+    "nproc": 20,
+    "load_type": "dota",
+    "img_dirs": [
+        "/public/data3/users/wangdi153/Dataset/dota/train/images/",
+        "/public/data3/users/wangdi153/Dataset/dota/val/images/"
+    ],
+    "ann_dirs": [
+        "/public/data3/users/wangdi153/Dataset/dota/train/labelTxt/",
+        "/public/data3/users/wangdi153/Dataset/dota/val/labelTxt/"
+    ],
+    "classes": null,
+    "prior_annfile": null,
+    "merge_type": "addition",
+    "sizes": [
+        1024
+    ],
+    "gaps": [
+        512
+    ],
+    "rates": [
+        0.5, 1.0, 1.5
+    ],
+    "img_rate_thr": 0.6,
+    "iof_thr": 0.7,
+    "no_padding": false,
+    "padding_value": [
+        104, 116, 124
+    ],
+    "filter_empty": true,
+    "save_dir": "/public/data3/users/wangdi153/Dataset/dota_1024_ms/trainval/",
+    "save_ext": ".png"
+}

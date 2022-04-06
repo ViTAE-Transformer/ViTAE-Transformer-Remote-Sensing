@@ -1,0 +1,29 @@
+{
+    "nproc": 20,
+    "load_type": "dota",
+    "img_dirs": [
+        "/public/data3/users/wangdi153/Dataset/dota/test/images/"
+    ],
+    "ann_dirs": null,
+    "classes": null,
+    "prior_annfile": null,
+    "merge_type": "addition",
+    "sizes": [
+        1024
+    ],
+    "gaps": [
+        200
+    ],
+    "rates": [
+        1.0
+    ],
+    "img_rate_thr": 0.6,
+    "iof_thr": 0.7,
+    "no_padding": false,
+    "padding_value": [
+        104, 116, 124
+    ],
+    "filter_empty": false,
+    "save_dir": "/public/data3/users/wangdi153/Dataset/dota_1024/test/",
+    "save_ext": ".png"
+}

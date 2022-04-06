@@ -1,0 +1,15 @@
+{
+  "patch_size": 256,
+  "augmentation": true,
+  "num_gpus": 1,
+  "num_workers": 16,
+  "num_channel": 3,
+  "EF": false,
+  "epochs": 100,
+  "batch_size": 8,
+  "learning_rate": 1e-3,
+  "loss_function": "hybrid",
+  "dataset_dir": "../CDData/subset/",
+  "weight_dir": "./outputs/",
+  "log_dir": "./log/"
+}
