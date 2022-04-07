@@ -60,6 +60,19 @@ RSP-ViTAEv2-S-E100 | 224 × 224 | 98.97 |  99.88 |18.8 | [Weight](https://drive.
 
 Please refer to [Readme.md](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing/tree/main/Scene%20Recoginition/README.md#usage) for installation, dataset preparation, training and inference.
 
+## Citation
+
+If this repo is useful for your research, please consider citation
+
+```
+@article{wang2022rsp,
+  author={{Wang}, Di and {Zhang}, Jing and {Du}, Bo and {Xia}, Gui-Song and {Tao}, Dacheng},
+  title={An Empirical Study of Remote Sensing Pretraining},
+  journal={arXiv preprint arXiv:2204.02825},
+  year={2022}
+}
+```
+
 ## Statement
 
 This project is for research purpose only. For any other questions please contact [di.wang at gmail.com](mailto:wd74108520@gmail.com) .
