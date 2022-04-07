@@ -1,7 +1,7 @@
 <h1 align="center"> An Empirical Study of Remote Sensing Pretraining </h1> 
 
 <p align="center">
-<a href="https://arxiv.org/"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
+<a href="http://arxiv.org/abs/2204.02825"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
 </p>
 
 <h5 align="center"><em>Di Wang, Jing Zhang, Bo Du, Gui-Song Xia and Dacheng Tao</em></h5>
