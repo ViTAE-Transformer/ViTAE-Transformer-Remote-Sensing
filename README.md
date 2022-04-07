@@ -26,6 +26,10 @@
 
 ## Updates
 
+***07/04/2022***
+
+The paper is post on arxiv!
+
 ***06/04/2022***
 - The pretrained models for ResNet-50, Swin-T and ViTAEv2-S are released. The code for pretraining and downstream tasks are also provided for reference.
 
