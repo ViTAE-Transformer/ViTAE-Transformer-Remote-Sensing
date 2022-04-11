@@ -35,41 +35,41 @@ The aerial images are usually obtained by a camera in a birdview perspective lyi
 
 |Backbone | Input size | Acc@1 (μ±σ) | Model|
 |-------- | ---------- | ----- | ----------|
-RSP-ResNet-50-E300 | 224 × 224 | 99.48 ± 0.10  | [Weight](https://drive.google.com/file/d/1g2-LkineSNMYBFt8ijv_Ev0ONBfEfQYS/view?usp=sharing) |
-RSP-Swin-T-E300 | 224 × 224 | 99.52 ± 0.00 | [Weight](https://drive.google.com/file/d/1XDjl7ppYNTQnNIj94jiIwpoQnO90IT1V/view?usp=sharing) |
-RSP-ViTAEv2-S-E100 | 224 × 224 | 99.90 ± 0.13 | [Weight](https://drive.google.com/file/d/1-tsc6qFkpZZtiLHZ7mvEcV6UjgYQbHtv/view?usp=sharing) |
+RSP-ResNet-50-E300 | 224 × 224 | 99.48 ± 0.10  | [google drive](https://drive.google.com/file/d/1g2-LkineSNMYBFt8ijv_Ev0ONBfEfQYS/view?usp=sharing) & [baiduyun](https://pan.baidu.com/s/17WM-gEa219hpMP-W4MpGhQ?pwd=bwep) |
+RSP-Swin-T-E300 | 224 × 224 | 99.52 ± 0.00 | [google drive](https://drive.google.com/file/d/1XDjl7ppYNTQnNIj94jiIwpoQnO90IT1V/view?usp=sharing) & [baiduyun](https://pan.baidu.com/s/1JBPcDEpdoEGSz0vsKKjNuQ?pwd=sp6j) |
+RSP-ViTAEv2-S-E100 | 224 × 224 | 99.90 ± 0.13 | [google drive](https://drive.google.com/file/d/1-tsc6qFkpZZtiLHZ7mvEcV6UjgYQbHtv/view?usp=sharing) & [baiduyun](https://pan.baidu.com/s/1OIY9URCkGjzxmmvNFRwlTA?pwd=sjvw) |
 
 ### AID (2:8)
 
 |Backbone | Input size | Acc@1 (μ±σ) | Model|
 |-------- | ---------- | ----- | ----------|
-RSP-ResNet-50-E300 | 224 × 224 | 96.81 ± 0.03  | [Weight](https://drive.google.com/file/d/1Ibp_AuwvJHHGCGNeEK2Qbk9_-Zt2CRys/view?usp=sharing) |
-RSP-Swin-T-E300 | 224 × 224 | 96.89 ± 0.08 | [Weight](https://drive.google.com/file/d/1f66ToOZUAUG4F-R2W3E9-ITf3tR40Qg0/view?usp=sharing) |
-RSP-ViTAEv2-S-E100 | 224 × 224 | 96.91 ± 0.06 | [Weight](https://drive.google.com/file/d/1x27PF3Qewty8u--ssn8g1llpOhvVCjdf/view?usp=sharing) |
+RSP-ResNet-50-E300 | 224 × 224 | 96.81 ± 0.03  | [google drive](https://drive.google.com/file/d/1Ibp_AuwvJHHGCGNeEK2Qbk9_-Zt2CRys/view?usp=sharing) & [baiduyun](https://pan.baidu.com/s/1FQhMAFkSYL999afPt7OfLQ?pwd=nt3b) |
+RSP-Swin-T-E300 | 224 × 224 | 96.89 ± 0.08 | [google drive](https://drive.google.com/file/d/1f66ToOZUAUG4F-R2W3E9-ITf3tR40Qg0/view?usp=sharing) & [baiduyun](https://pan.baidu.com/s/16HJ_UFgZIMvb9C8aHSD6bA?pwd=p79q) |
+RSP-ViTAEv2-S-E100 | 224 × 224 | 96.91 ± 0.06 | [google drive](https://drive.google.com/file/d/1x27PF3Qewty8u--ssn8g1llpOhvVCjdf/view?usp=sharing) & [baiduyun](https://pan.baidu.com/s/1Jnlv6o2HjFkg6xfLhm09AA?pwd=hfvr) |
 
 ### AID (5:5)
 
 |Backbone | Input size | Acc@1 (μ±σ) | Model|
 |-------- | ---------- | ----- | ----------|
-RSP-ResNet-50-300 | 224 × 224 | 97.89 ± 0.08  | [Weight](https://drive.google.com/file/d/1AG1Yo7_KvBluy7HGeajdS_dczpqa6no2/view?usp=sharing) |
-RSP-Swin-T-E300 | 224 × 224 | 98.30 ± 0.04 | [Weight](https://drive.google.com/file/d/1cCNIcIPDsvc2oM6vSdvlZRwL0JcCHL-j/view?usp=sharing) |
-RSP-ViTAEv2-S-E100 | 224 × 224 | 98.22 ± 0.09 | [Weight](https://drive.google.com/file/d/1MtOlWukreMCtx5c4W4bS_YaRrZtIzFLD/view?usp=sharing) |
+RSP-ResNet-50-300 | 224 × 224 | 97.89 ± 0.08  | [google drive](https://drive.google.com/file/d/1AG1Yo7_KvBluy7HGeajdS_dczpqa6no2/view?usp=sharing) & [baiduyun](https://pan.baidu.com/s/1R0uiJCukAJ7qwNjme2D6AQ?pwd=45yq) |
+RSP-Swin-T-E300 | 224 × 224 | 98.30 ± 0.04 | [google drive](https://drive.google.com/file/d/1cCNIcIPDsvc2oM6vSdvlZRwL0JcCHL-j/view?usp=sharing) & [baiduyun](https://pan.baidu.com/s/12Z0tzP8ie75O9jqY1vEFYg?pwd=efds) |
+RSP-ViTAEv2-S-E100 | 224 × 224 | 98.22 ± 0.09 | [google drive](https://drive.google.com/file/d/1MtOlWukreMCtx5c4W4bS_YaRrZtIzFLD/view?usp=sharing) & [baiduyun](https://pan.baidu.com/s/1ODFQpst-ytNNEzVZR3ewBQ?pwd=uc56) |
 
 ### NWPU-RESISC (1:9)
 
 |Backbone | Input size | Acc@1 (μ±σ) | Model|
 |-------- | ---------- | ----- | ----------|
-RSP-ResNet-50-E300 | 224 × 224 | 93.93 ± 0.10  | [Weight](https://drive.google.com/file/d/1IIChmwXBzNqjbOIULeTJ-zBITSoNq0u-/view?usp=sharing) |
-RSP-Swin-T-E300 | 224 × 224 | 93.02 ± 0.12 | [Weight](https://drive.google.com/file/d/1dDhljOeGKdv3exjlrKKLVIVWVHZAXbV_/view?usp=sharing) |
-RSP-ViTAEv2-S-E100 | 224 × 224 | 94.41 ± 0.11 | [Weight](https://drive.google.com/file/d/1uGj8w7Io2_RLtktGapN1twN54itHaeQa/view?usp=sharing) |
+RSP-ResNet-50-E300 | 224 × 224 | 93.93 ± 0.10  | [google drive](https://drive.google.com/file/d/1IIChmwXBzNqjbOIULeTJ-zBITSoNq0u-/view?usp=sharing) & [baiduyun](https://pan.baidu.com/s/1EEw3CPAsdW2bKjJllpshVQ?pwd=np2x) |
+RSP-Swin-T-E300 | 224 × 224 | 93.02 ± 0.12 | [google drive](https://drive.google.com/file/d/1dDhljOeGKdv3exjlrKKLVIVWVHZAXbV_/view?usp=sharing) & [baiduyun](https://pan.baidu.com/s/11aBRnPkcSIloia-AYRLXAA?pwd=8q5a) |
+RSP-ViTAEv2-S-E100 | 224 × 224 | 94.41 ± 0.11 | [google drive](https://drive.google.com/file/d/1uGj8w7Io2_RLtktGapN1twN54itHaeQa/view?usp=sharing) & [baiduyun](https://pan.baidu.com/s/1vPcU7G4ngxBtgr54UNB9aA?pwd=af5w)  |
 
 ### NWPU-RESISC (2:8)
 
 |Backbone | Input size | Acc@1 (μ±σ) | Model|
 |-------- | ---------- | ----- | ----------|
-RSP-ResNet-50-E300 | 224 × 224 | 95.02 ± 0.06  | [Weight](https://drive.google.com/file/d/1ITmL4Hz3KXaSVxyFUHWuTylTvs4CLmuZ/view?usp=sharing) |
-RSP-Swin-T-E300 | 224 × 224 | 94.51 ± 0.05 | [Weight](https://drive.google.com/file/d/1h6Oy7j651uNClMz-PkqlPMCgZut2nQGF/view?usp=sharing) |
-RSP-ViTAEv2-S-E100 | 224 × 224 | 95.60 ± 0.06 | [Weight](https://drive.google.com/file/d/1ASfFu997r6NKVg1W88_36H-HMQvTyhhD/view?usp=sharing) |
+RSP-ResNet-50-E300 | 224 × 224 | 95.02 ± 0.06  | [google drive](https://drive.google.com/file/d/1ITmL4Hz3KXaSVxyFUHWuTylTvs4CLmuZ/view?usp=sharing) & [baiduyun](https://pan.baidu.com/s/1YjN5rXZ_-Fz7-G7UtZl4NA?pwd=4f6i) |
+RSP-Swin-T-E300 | 224 × 224 | 94.51 ± 0.05 | [google drive](https://drive.google.com/file/d/1h6Oy7j651uNClMz-PkqlPMCgZut2nQGF/view?usp=sharing) & [baiduyun](https://pan.baidu.com/s/1e5Zlpf1hAyS-ChWxybVy_A?pwd=rx9w) |
+RSP-ViTAEv2-S-E100 | 224 × 224 | 95.60 ± 0.06 | [google drive](https://drive.google.com/file/d/1ASfFu997r6NKVg1W88_36H-HMQvTyhhD/view?usp=sharing) & [baiduyun](https://pan.baidu.com/s/1Phs9d1-byXn2J6yo6J84ng?pwd=mikc) |
 
 ## Usage
 
