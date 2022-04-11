@@ -35,7 +35,8 @@ The baiduyun links of pretrained models are provided.
 The paper is post on arxiv!
 
 ***06/04/2022***
-- The pretrained models for ResNet-50, Swin-T and ViTAEv2-S are released. The code for pretraining and downstream tasks are also provided for reference.
+
+The pretrained models for ResNet-50, Swin-T and ViTAEv2-S are released. The code for pretraining and downstream tasks are also provided for reference.
 
 ## Introduction
 
@@ -54,11 +55,11 @@ The aerial images are usually obtained by a camera in a birdview perspective lyi
 ## Results and Models
 
 ### MillionAID
-|Backbone | Input size | Acc@1 | Acc@5 | Param(M) | Pretrained weight|
+|Backbone | Input size | Acc@1 | Acc@5 | Param(M) | Pretrained model|
 |-------- | ---------- | ----- | ----- | -------- | ----------|
-RSP-ResNet-50-E300 | 224 × 224 | 98.99 | 99.82| 23.6 | [google drive](https://drive.google.com/file/d/1K3P4_fDfcBRGqpKoSdSa6OXS4xC1xLC9/view?usp=sharing) & [baiduyun](https://pan.baidu.com/s/1q7VI1wj2Vp0N5jvaXZOuCA?pwd=5npb)| [//]: & [Log](https://drive.google.com/file/d/1y1GtAs2vbLHwrIK_dVvXyGXrArhiVsIi/view?usp=sharing)|
-RSP-Swin-T-E300 | 224 × 224 | 98.59 | 99.88 | 27.6| [google drive](https://drive.google.com/file/d/1G5wjbjIHepmT6VVOuW03bWmyvrhcfe1F/view?usp=sharing) & [baiduyun](https://pan.baidu.com/s/1Hs94fI7mF12CX-Sf69gumA?pwd=7579) | [//]: & [Log](https://drive.google.com/file/d/1Ld7qxWgwOrjba08F3DxrPjfJi_wk9biR/view?usp=sharing)|
-RSP-ViTAEv2-S-E100 | 224 × 224 | 98.97 |  99.88 |18.8 | [google drive](https://drive.google.com/file/d/1cDB69frN-NxCyoy8lghjx6NiH1JriYUc/view?usp=sharing) & [baiduyun](https://pan.baidu.com/s/1riMV07wtMpmrJzEtr_T-Ag?pwd=hm8p) | [//]: & [Log](https://drive.google.com/file/d/1KEgMqSlu0-q9ZodKAH92qTvCvmcjWhKn/view?usp=sharing)|
+RSP-ResNet-50-E300 | 224 × 224 | 98.99 | 99.82| 23.6 | [google](https://drive.google.com/file/d/1K3P4_fDfcBRGqpKoSdSa6OXS4xC1xLC9/view?usp=sharing) & [baidu](https://pan.baidu.com/s/1q7VI1wj2Vp0N5jvaXZOuCA?pwd=5npb)| [//]: & [Log](https://drive.google.com/file/d/1y1GtAs2vbLHwrIK_dVvXyGXrArhiVsIi/view?usp=sharing)|
+RSP-Swin-T-E300 | 224 × 224 | 98.59 | 99.88 | 27.6| [google](https://drive.google.com/file/d/1G5wjbjIHepmT6VVOuW03bWmyvrhcfe1F/view?usp=sharing) & [baidu](https://pan.baidu.com/s/1Hs94fI7mF12CX-Sf69gumA?pwd=7579) | [//]: & [Log](https://drive.google.com/file/d/1Ld7qxWgwOrjba08F3DxrPjfJi_wk9biR/view?usp=sharing)|
+RSP-ViTAEv2-S-E100 | 224 × 224 | 98.97 |  99.88 |18.8 | [google](https://drive.google.com/file/d/1cDB69frN-NxCyoy8lghjx6NiH1JriYUc/view?usp=sharing) & [baidu](https://pan.baidu.com/s/1riMV07wtMpmrJzEtr_T-Ag?pwd=hm8p) | [//]: & [Log](https://drive.google.com/file/d/1KEgMqSlu0-q9ZodKAH92qTvCvmcjWhKn/view?usp=sharing)|
 
 ## Usage
 
