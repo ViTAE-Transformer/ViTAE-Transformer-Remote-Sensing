@@ -20,12 +20,21 @@
 
 ## Updates
 
+***011/04/2022***
+
+The baiduyun links of scene recognition models are provided.
+
+***07/04/2022***
+
+The paper is post on arxiv!
+
 ***06/04/2022***
-- The pretrained models for ResNet-50, Swin-T and ViTAEv2-S are released. The code for pretraining and scene recognition task are also provided for reference.
+
+The pretrained models for ResNet-50, Swin-T and ViTAEv2-S are released. The code for pretraining and scene recognition task are also provided for reference.
 
 ## Introduction
 
-This repository contains the pretraining and scene  codes, models and test results for the paper "An Empirical Study of Remote Sensing Pretraining". 
+This repository contains the codes, models and test results for the paper "An Empirical Study of Remote Sensing Pretraining". 
 
 The aerial images are usually obtained by a camera in a birdview perspective lying on the planes or satellites, perceiving a large scope of land uses and land covers, whose scene is usually difficult to be interpreted since the interference of the scene-irrelevant regions and the complicated spatial distribution of land objects. Although deep learning has largely reshaped remote sensing research for aerial image understanding and made a great success. However, most of existing deep models are initialized with ImageNet pretrained weights, where the natural images inevitably presents a large domain gap relative to the aerial images, probably limiting the finetuning performance on downstream aerial scene tasks. This issue motivates us to conduct an empirical study of remote sensing pretraining (RSP). To this end, we train different networks from scratch with the help of the largest remote sensing scene recognition dataset up to now-MillionAID, to obtain the remote sensing pretrained backbones, including both convolutional neural networks (CNN) and vision transformers such as Swin and [ViTAE](https://arxiv.org/pdf/2202.10108.pdf), which have shown promising performance on computer vision tasks. Then, we investigate the impact of ImageNet pretraining (IMP) and RSP on a series of downstream tasks including ***#scene recognition#***, semantic segmentation, object detection, and change detection using the CNN and vision transformers backbones. 
 
