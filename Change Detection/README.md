@@ -20,12 +20,21 @@
 
 ## Updates
 
+***011/04/2022***
+
+The baiduyun links of change detection models are provided.
+
+***07/04/2022***
+
+The paper is post on arxiv!
+
 ***06/04/2022***
-- The pretrained models for ResNet-50, Swin-T and ViTAEv2-S are released. The code for pretraining and downstream tasks are also provided for reference.
+
+The pretrained models for ResNet-50, Swin-T and ViTAEv2-S are released. The code for pretraining and downstream tasks are also provided for reference.
 
 ## Introduction
 
-This repository contains codes, models and test results for the paper "An Empirical Study of Remote Sensing Pretraining". 
+This repository contains the codes, models and test results for the paper "An Empirical Study of Remote Sensing Pretraining". 
 
 The aerial images are usually obtained by a camera in a birdview perspective lying on the planes or satellites, perceiving a large scope of land uses and land covers, whose scene is usually difficult to be interpreted since the interference of the scene-irrelevant regions and the complicated spatial distribution of land objects. Although deep learning has largely reshaped remote sensing research for aerial image understanding and made a great success. However, most of existing deep models are initialized with ImageNet pretrained weights, where the natural images inevitably presents a large domain gap relative to the aerial images, probably limiting the finetuning performance on downstream aerial scene tasks. This issue motivates us to conduct an empirical study of remote sensing pretraining. To this end, we train different networks from scratch with the help of the largest remote sensing scene recognition dataset up to now-MillionAID, to obtain the remote sensing pretrained backbones, including both convolutional neural networks (CNN) and vision transformers such as Swin and [ViTAE](https://arxiv.org/pdf/2202.10108.pdf), which have shown promising performance on computer vision tasks. Then, we investigate the impact of ImageNet pretraining (IMP) and RSP on a series of downstream tasks including scene recognition, semantic segmentation, object detection, and ***#change detection#*** using the CNN and vision transformers backbones. 
 
@@ -43,17 +52,17 @@ The aerial images are usually obtained by a camera in a birdview perspective lyi
 
 | Method | Backbone |Input size  | F1  | Model |
 | ------ | -------- |---------- | ------- | --- |
-| BIT| RSP-ResNet-50-E300|256 × 256 | 96.00 |  [google drive](https://drive.google.com/file/d/1SMNY93e5zKLFtzSyCeM7I5Wb7_qC61uP/view?usp=sharing) |
-| BIT| RSP-Swin-T-E300 |256 × 256 | 95.21 |  [google drive](https://drive.google.com/file/d/1GhVXtT8fhi7yfJjJFbQPt95Prw3dAZ6L/view?usp=sharing) |
-| BIT| RSP-ViTAEv2-S-E100 |256 × 256  | 96.81 | [google drive](https://drive.google.com/file/d/1ZGmx1lgzATJwy6Wk_HRFZRrFRgFWF-S6/view?usp=sharing) |
+| BIT| RSP-ResNet-50-E300|256 × 256 | 96.00 |  [google](https://drive.google.com/file/d/1SMNY93e5zKLFtzSyCeM7I5Wb7_qC61uP/view?usp=sharing) & [baidu](https://pan.baidu.com/s/1mg0etrKMprRKKF69373bew?pwd=29u4) |
+| BIT| RSP-Swin-T-E300 |256 × 256 | 95.21 |  [google](https://drive.google.com/file/d/1GhVXtT8fhi7yfJjJFbQPt95Prw3dAZ6L/view?usp=sharing) & [baidu](https://pan.baidu.com/s/1gSgU5ZH6Fs0-RF21navLXA?pwd=1y6s) |
+| BIT| RSP-ViTAEv2-S-E100 |256 × 256  | 96.81 | [google](https://drive.google.com/file/d/1ZGmx1lgzATJwy6Wk_HRFZRrFRgFWF-S6/view?usp=sharing) & [baidu](https://pan.baidu.com/s/1qwr1TKmiQ5LuQ5ZC3oGX3w?pwd=q3vd) |
 
 ### LEVIR
 
 | Method | Backbone |Input size | F1 | Model |
 | ------ | -------- |---------- | ------- | --- |
-| BIT| RSP-ResNet-50-E300 |256 × 256| 90.10 | [google drive](https://drive.google.com/file/d/1TX1VCCIcH0lsj6pObXj3u5PJTXB3_18o/view?usp=sharing) |
-| BIT| RSP-Swin-T-E300 |256 × 256| 90.10 | [google drive](https://drive.google.com/file/d/1MfaYBJdeCWg2qgqyjwOYr-KJpjCVHwHe/view?usp=sharing) |
-| BIT| RSP-ViTAEv2-S-E100 |256 × 256 | 90.93 |  [google drive](https://drive.google.com/file/d/1z5ge7vN6d8tXKn82W6uNNNl5DAMbLb5v/view?usp=sharing) |
+| BIT| RSP-ResNet-50-E300 |256 × 256| 90.10 | [google](https://drive.google.com/file/d/1TX1VCCIcH0lsj6pObXj3u5PJTXB3_18o/view?usp=sharing) & [baidu](https://pan.baidu.com/s/1urzS_zuW1FxQzACihaCoZQ?pwd=p2vr) |
+| BIT| RSP-Swin-T-E300 |256 × 256| 90.10 | [google](https://drive.google.com/file/d/1MfaYBJdeCWg2qgqyjwOYr-KJpjCVHwHe/view?usp=sharing) & [baidu](https://pan.baidu.com/s/1h7gptokQLFA4o17CdOHUdw?pwd=ba5x) |
+| BIT| RSP-ViTAEv2-S-E100 |256 × 256 | 90.93 |  [google](https://drive.google.com/file/d/1z5ge7vN6d8tXKn82W6uNNNl5DAMbLb5v/view?usp=sharing) & [baidu](https://pan.baidu.com/s/1ew3ZItT7HtuQP273yGJphg?pwd=utr9) |
 
 ## Usage
 
