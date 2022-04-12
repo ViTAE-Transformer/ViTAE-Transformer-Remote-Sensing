@@ -63,7 +63,7 @@ RSP-ViTAEv2-S-E100 | 224 × 224 | 98.97 |  99.88 |18.8 | [google](https://drive.
 
 ## Usage
 
-Please refer to [Readme.md](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing/tree/main/Scene%20Recoginition/README.md#usage) for installation, dataset preparation, training and inference.
+Please refer to [Readme.md](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing/blob/main/Scene%20Recognition/README.md) for installation, dataset preparation, training and inference.
 
 ## Citation
 
