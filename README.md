@@ -75,8 +75,8 @@ If this repo is useful for your research, please consider citation
 
 ```
 @article{wang2022rsp,
-  author={{Wang}, Di and {Zhang}, Jing and {Du}, Bo and {Xia}, Gui-Song and {Tao}, Dacheng},
   title={An Empirical Study of Remote Sensing Pretraining},
+  author={Wang, Di and Zhang, Jing and Du, Bo and Xia, Gui-Song and Tao, Dacheng},
   journal={arXiv preprint arXiv:2204.02825},
   year={2022}
 }
