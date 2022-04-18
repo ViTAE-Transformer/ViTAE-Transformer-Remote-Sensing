@@ -153,7 +153,7 @@ python -m torch.distributed.launch --nproc_per_node 1 --master_port 7777 main.py
 
 ### Inference
 
-* Evaluation the existing model
+* Evaluate the existing model
 ```
 python -m torch.distributed.launch --nproc_per_node 1 --master_port 8888 main.py \
 --dataset 'nwpuresisc' --model 'vitae_win' --ratio 28 --exp_num 5 \
