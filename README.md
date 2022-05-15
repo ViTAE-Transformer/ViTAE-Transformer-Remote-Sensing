@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="http://arxiv.org/abs/2204.02825"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
-<a href="https://www.bilibili.com/video/BV1y5411979L?spm_id_from=333.999.0.0"><img src="https://img.shields.io/badge/bilibili-Video-ff69b4"></a>
+<a href="https://www.bilibili.com/video/BV1y5411979L?spm_id_from=333.999.0.0"><img src="https://img.shields.io/badge/bilibili-Talk-ff69b4"></a>
 </p>
 
 <h5 align="center"><em>Di Wang, Jing Zhang, Bo Du, Gui-Song Xia and Dacheng Tao</em></h5>
