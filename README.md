@@ -2,6 +2,7 @@
 
 <p align="center">
 <a href="http://arxiv.org/abs/2204.02825"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
+<a href="https://www.bilibili.com/video/BV1y5411979L?spm_id_from=333.999.0.0"><img src="https://img.shields.io/badge/bilibili-Video-ff69b4"></a>
 </p>
 
 <h5 align="center"><em>Di Wang, Jing Zhang, Bo Du, Gui-Song Xia and Dacheng Tao</em></h5>
@@ -11,6 +12,7 @@
   <a href="#introduction">Introduction</a> |
   <a href="#usage">Usage</a> |
   <a href="#results-and-models">Results & Models</a> |
+  <a href="#talk">Talk</a> |
   <a href="#statement">Statement</a> |
 </p >
 
@@ -81,6 +83,14 @@ If this repo is useful for your research, please consider citation
   year={2022}
 }
 ```
+
+## Talk
+
+A video talk about this study (In Chinese)
+
+<p align="center">
+<iframe src="//player.bilibili.com/player.html?aid=469101624&bvid=BV1y5411979L&cid=718511024&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</p >
 
 ## Statement
 
