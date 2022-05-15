@@ -88,9 +88,7 @@ If this repo is useful for your research, please consider citation
 
 A video talk about this study (In Chinese)
 
-<p align="center">
-<iframe src="//player.bilibili.com/player.html?aid=469101624&bvid=BV1y5411979L&cid=718511024&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-</p >
+[![](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing/blob/main/Figs/video.png)](https://player.bilibili.com/player.html?aid=469101624&bvid=BV1y5411979L&cid=718511024&page=1)
 
 ## Statement
 
