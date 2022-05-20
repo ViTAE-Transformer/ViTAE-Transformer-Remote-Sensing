@@ -1,3 +1,12 @@
+<p align="left">
+<a href="https://paperswithcode.com/sota/semantic-segmentation-on-isprs-potsdam?p=an-empirical-study-of-remote-sensing"><img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/an-empirical-study-of-remote-sensing/semantic-segmentation-on-isprs-potsdam"></a>
+<a href="https://paperswithcode.com/sota/semantic-segmentation-on-isaid?p=an-empirical-study-of-remote-sensing"><img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/an-empirical-study-of-remote-sensing/semantic-segmentation-on-isaid"></a>
+<img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/an-empirical-study-of-remote-sensing/object-detection-in-aerial-images-on-dota-1"><a href="https://paperswithcode.com/sota/object-detection-in-aerial-images-on-dota-1?p=an-empirical-study-of-remote-sensing">
+<img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/an-empirical-study-of-remote-sensing/object-detection-in-aerial-images-on-hrsc2016"><a href="https://paperswithcode.com/sota/object-detection-in-aerial-images-on-hrsc2016?p=an-empirical-study-of-remote-sensing">
+<img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/an-empirical-study-of-remote-sensing/change-detection-for-remote-sensing-images-on"><a href="https://paperswithcode.com/sota/change-detection-for-remote-sensing-images-on?p=an-empirical-study-of-remote-sensing">
+<img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/an-empirical-study-of-remote-sensing/building-change-detection-for-remote-sensing"><a href="https://paperswithcode.com/sota/building-change-detection-for-remote-sensing?p=an-empirical-study-of-remote-sensing">
+</p>
+
 <h1 align="center"> An Empirical Study of Remote Sensing Pretraining </h1> 
 
 <p align="center">
@@ -31,6 +40,10 @@
 > **Matting: Please see [ViTAE-Transformer for matting](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Matting)**;
 
 ## Updates
+  
+***020/05/2022***
+
+The paper has been accepted by IEEE TGRS.
 
 ***011/04/2022***
 
