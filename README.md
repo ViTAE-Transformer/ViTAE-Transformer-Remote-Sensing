@@ -1,21 +1,21 @@
 <p align="left">
-<img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/an-empirical-study-of-remote-sensing/aerial-scene-classification-on-ucm-80-as"><a href="https://paperswithcode.com/sota/aerial-scene-classification-on-ucm-80-as?p=an-empirical-study-of-remote-sensing">
-<img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/an-empirical-study-of-remote-sensing/aerial-scene-classification-on-aid-20-as"><a href="https://paperswithcode.com/sota/aerial-scene-classification-on-aid-20-as?p=an-empirical-study-of-remote-sensing">
-<img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/an-empirical-study-of-remote-sensing/aerial-scene-classification-on-aid-50-as"><a href="https://paperswithcode.com/sota/aerial-scene-classification-on-aid-50-as?p=an-empirical-study-of-remote-sensing">
-<img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/an-empirical-study-of-remote-sensing/aerial-scene-classification-on-nwpu-10-as"><a href="https://paperswithcode.com/sota/aerial-scene-classification-on-nwpu-10-as?p=an-empirical-study-of-remote-sensing">
-<img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/an-empirical-study-of-remote-sensing/aerial-scene-classification-on-nwpu-20-as"><a href="https://paperswithcode.com/sota/aerial-scene-classification-on-nwpu-20-as?p=an-empirical-study-of-remote-sensing">
+<a href="https://paperswithcode.com/sota/aerial-scene-classification-on-ucm-80-as?p=an-empirical-study-of-remote-sensing"><img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/an-empirical-study-of-remote-sensing/aerial-scene-classification-on-ucm-80-as"></a>
+<a href="https://paperswithcode.com/sota/aerial-scene-classification-on-aid-20-as?p=an-empirical-study-of-remote-sensing"><img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/an-empirical-study-of-remote-sensing/aerial-scene-classification-on-aid-20-as"></a>
+<a href="https://paperswithcode.com/sota/aerial-scene-classification-on-aid-50-as?p=an-empirical-study-of-remote-sensing"><img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/an-empirical-study-of-remote-sensing/aerial-scene-classification-on-aid-50-as"></a>
+<a href="https://paperswithcode.com/sota/aerial-scene-classification-on-nwpu-10-as?p=an-empirical-study-of-remote-sensing"><img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/an-empirical-study-of-remote-sensing/aerial-scene-classification-on-nwpu-10-as"></a>
+<a href="https://paperswithcode.com/sota/aerial-scene-classification-on-nwpu-20-as?p=an-empirical-study-of-remote-sensing"><img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/an-empirical-study-of-remote-sensing/aerial-scene-classification-on-nwpu-20-as"></a>
 <a href="https://paperswithcode.com/sota/semantic-segmentation-on-isprs-potsdam?p=an-empirical-study-of-remote-sensing"><img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/an-empirical-study-of-remote-sensing/semantic-segmentation-on-isprs-potsdam"></a>
 <a href="https://paperswithcode.com/sota/semantic-segmentation-on-isaid?p=an-empirical-study-of-remote-sensing"><img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/an-empirical-study-of-remote-sensing/semantic-segmentation-on-isaid"></a>
-<img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/an-empirical-study-of-remote-sensing/object-detection-in-aerial-images-on-dota-1"><a href="https://paperswithcode.com/sota/object-detection-in-aerial-images-on-dota-1?p=an-empirical-study-of-remote-sensing">
-<img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/an-empirical-study-of-remote-sensing/object-detection-in-aerial-images-on-hrsc2016"><a href="https://paperswithcode.com/sota/object-detection-in-aerial-images-on-hrsc2016?p=an-empirical-study-of-remote-sensing">
-<img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/an-empirical-study-of-remote-sensing/change-detection-for-remote-sensing-images-on"><a href="https://paperswithcode.com/sota/change-detection-for-remote-sensing-images-on?p=an-empirical-study-of-remote-sensing">
-<img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/an-empirical-study-of-remote-sensing/building-change-detection-for-remote-sensing"><a href="https://paperswithcode.com/sota/building-change-detection-for-remote-sensing?p=an-empirical-study-of-remote-sensing">
+<a href="https://paperswithcode.com/sota/object-detection-in-aerial-images-on-dota-1?p=an-empirical-study-of-remote-sensing"><img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/an-empirical-study-of-remote-sensing/object-detection-in-aerial-images-on-dota-1"></a>
+<a href="https://paperswithcode.com/sota/object-detection-in-aerial-images-on-hrsc2016?p=an-empirical-study-of-remote-sensing"><img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/an-empirical-study-of-remote-sensing/object-detection-in-aerial-images-on-hrsc2016"></a>
+<a href="https://paperswithcode.com/sota/change-detection-for-remote-sensing-images-on?p=an-empirical-study-of-remote-sensing"><img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/an-empirical-study-of-remote-sensing/change-detection-for-remote-sensing-images-on"></a>
+<a href="https://paperswithcode.com/sota/building-change-detection-for-remote-sensing?p=an-empirical-study-of-remote-sensing"><img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/an-empirical-study-of-remote-sensing/building-change-detection-for-remote-sensing"></a>
 </p>
 
 <h1 align="center"> An Empirical Study of Remote Sensing Pretraining </h1> 
 
 <p align="center">
-<a href="http://arxiv.org/abs/2204.02825"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
+<a href="https://arxiv.org/abs/2204.02825"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
 <a href="https://www.bilibili.com/video/BV1y5411979L?spm_id_from=333.999.0.0"><img src="https://img.shields.io/badge/bilibili-Talk-ff69b4"></a>
 </p>
 
