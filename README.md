@@ -47,7 +47,7 @@
 
 ## Updates
 
-***025/05/2022***
+***027/05/2022***
 
 The early access is available!
   
