@@ -16,6 +16,7 @@
 
 <p align="center">
 <a href="https://arxiv.org/abs/2204.02825"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
+<a href="https://ieeexplore.ieee.org/document/9782149"><img src="https://img.shields.io/badge/TGRS-Paper-blue"></a>
 <a href="https://www.bilibili.com/video/BV1y5411979L?spm_id_from=333.999.0.0"><img src="https://img.shields.io/badge/bilibili-Talk-ff69b4"></a>
 </p>
 
@@ -45,6 +46,10 @@
 > **Matting: Please see [ViTAE-Transformer for matting](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Matting)**;
 
 ## Updates
+
+***025/05/2022***
+
+The early access is available!
   
 ***020/05/2022***
 
