@@ -94,12 +94,15 @@ Please refer to [Readme.md](https://github.com/ViTAE-Transformer/ViTAE-Transform
 If this repo is useful for your research, please consider citation
 
 ```
-@article{wang2022rsp,
-  title={An Empirical Study of Remote Sensing Pretraining},
-  author={Wang, Di and Zhang, Jing and Du, Bo and Xia, Gui-Song and Tao, Dacheng},
-  journal={arXiv preprint arXiv:2204.02825},
-  year={2022}
-}
+@ARTICLE{wang_rsp_2022,  
+author={Wang, Di and Zhang, Jing and Du, Bo and Xia, Gui-Song and Tao, Dacheng},  
+journal={IEEE Transactions on Geoscience and Remote Sensing},   
+title={An Empirical Study of Remote Sensing Pretraining},   
+year={2022},  
+volume={},  
+number={},  
+pages={1-1},  
+doi={10.1109/TGRS.2022.3176603}}
 ```
 
 ## Talk
