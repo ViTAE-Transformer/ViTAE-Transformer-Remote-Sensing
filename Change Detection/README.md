@@ -72,9 +72,9 @@ The aerial images are usually obtained by a camera in a birdview perspective lyi
 
 ### Installation
 
-The code framework is mainly borrowed from the SNUNet, while we use BIT in the network part, Thus
+The code framework is mainly borrowed from the SNUNet, while we use BIT in the network part. Thus
 
-Please refer to [BIT-Readme.md](https://github.com/justchenhao/BIT_CD/blob/master/README.md) for the installation of main packeges such as python, pytorch, etc.
+Please refer to [BIT-Readme.md](https://github.com/justchenhao/BIT_CD/blob/master/README.md) for installing main packeges such as python, pytorch, etc.
 
 Please refer to [SNUNet-Readme.md](https://github.com/RSCD-Lab/Siam-NestedUNet/blob/master/README.md) for extra packages.
 
