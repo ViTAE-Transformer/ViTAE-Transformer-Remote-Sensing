@@ -76,7 +76,7 @@ The code framework is mainly borrowed from the SNUNet, while we use BIT in the n
 
 Please refer to [BIT-Readme.md](https://github.com/justchenhao/BIT_CD/blob/master/README.md) for installing main packeges such as python, pytorch, etc.
 
-Please refer to [SNUNet-Readme.md](https://github.com/RSCD-Lab/Siam-NestedUNet/blob/master/README.md) for extra packages.
+Please refer to [SNUNet-Readme.md](https://github.com/RSCD-Lab/Siam-NestedUNet/blob/master/README.md) for other required packages.
 
 ### Data Preparation
 
