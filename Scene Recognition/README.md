@@ -111,7 +111,7 @@ pip install pyyaml yacs pillow
 2. Clone this repo
 
 ```
-https://github.com/ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing.git
+git clone https://github.com/ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing.git
 ```
 
 ### Data Preparation
