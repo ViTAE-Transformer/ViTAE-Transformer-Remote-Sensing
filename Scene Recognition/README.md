@@ -111,7 +111,7 @@ pip install pyyaml yacs pillow
 2. Clone this repo
 
 ```
-git clone https://github.com/DotWang/Remote-Sensing-Pretraining.git
+https://github.com/ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing.git
 ```
 
 ### Data Preparation
