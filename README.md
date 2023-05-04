@@ -22,7 +22,7 @@ This repo contains a comprehensive list of our research works related to **Remot
 
 ### <span id="rsp">📘 An Empirical Study of Remote Sensing Pretraining [TGRS-2022]</span>
 
-<em>&ensp; &ensp; &ensp;Di Wang<sup>&#8727;</sup>, Jing Zhang<sup>&#8727;</sup>, Bo Du, Gui-Song Xia and Dacheng Tao</em>
+<em>Di Wang<sup>&#8727;</sup>, Jing Zhang<sup>&#8727;</sup>, Bo Du, Gui-Song Xia and Dacheng Tao</em>
 
 [Paper](https://arxiv.org/abs/2204.02825) |  [Github Code](https://github.com/ViTAE-Transformer/RSP) | [BibTex](./assets/TGRS_2022_RSP/rsp.bib)
 
@@ -34,7 +34,7 @@ The aerial images are usually obtained by a camera in a birdview perspective lyi
 
 ### <span id="rvsa">📘 Advancing Plain Vision Transformer Towards Remote Sensing Foundation Model [TGRS-2022]</span>
 
-<em>&ensp; &ensp; &ensp;Di Wang<sup>&#8727;</sup>, Qiming Zhang<sup>&#8727;</sup>, Yufei Xu<sup>&#8727;</sup>, Jing Zhang, Bo Du, Dacheng Tao and Liangpei Zhang</em>.
+<em>Di Wang<sup>&#8727;</sup>, Qiming Zhang<sup>&#8727;</sup>, Yufei Xu<sup>&#8727;</sup>, Jing Zhang, Bo Du, Dacheng Tao and Liangpei Zhang</em>.
 
 [Paper](https://arxiv.org/abs/2208.03987) |  [Github Code](https://github.com/ViTAE-Transformer/Remote-Sensing-RVSA) | [BibTex](./assets/TGRS_2022_RVSA/rvsa.bib)
 
