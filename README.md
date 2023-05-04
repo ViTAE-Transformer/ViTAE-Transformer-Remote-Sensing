@@ -28,7 +28,7 @@ This repo contains a comprehensive list of our research works related to **Remot
 
 We train different networks from scratch with the help of the largest remote sensing scene recognition dataset up to now-MillionAID, to obtain the remote sensing pretrained backbones, including both convolutional neural networks (CNN) and vision transformers such as Swin and ViTAE, which have shown promising performance on computer vision tasks. Then, we investigate the impact of ImageNet pretraining (IMP) and remote sensing pretraining (RSP) on a series of downstream tasks including scene recognition, semantic segmentation, object detection, and change detection using the CNN and vision transformers backbones.
 
-<img src="./assets/TGRS_2022_RSP/rsp.jpg" width="100%">
+<img src="./assets/TGRS_2022_RSP/rsp.png" width="100%">
 
 ***
 
@@ -40,7 +40,7 @@ We train different networks from scratch with the help of the largest remote sen
 
 We resort to plain vision transformers with about 100M and make the first attempt to propose large vision models customized for RS tasks and propose a new rotated varied-size window attention (RVSA) to substitute the original full attention to handle the large image size and objects of various orientations in RS images. The RVSA could significantly reduce the computational cost and memory footprint while learn better object representation by extracting rich context from the generated diverse windows.
 
-<img src="./assets/TGRS_2022_RVSA/rvsa.jpg" width="100%">
+<img src="./assets/TGRS_2022_RVSA/rvsa.png" width="100%">
 
 ***
 
@@ -52,4 +52,4 @@ We resort to plain vision transformers with about 100M and make the first attemp
 
 In this study, we leverage <a href="https://arxiv.org/abs/2304.02643"> SAM </a> and existing RS object detection datasets to develop an efficient pipeline for generating a large-scale RS segmentation dataset, dubbed SAMRS. SAMRS surpasses existing high-resolution RS segmentation datasets in size by several orders of magnitude, and provides object category, location, and instance information that can be used for semantic segmentation, instance segmentation, and object detection, either individually or in combination. We also provide a comprehensive analysis of SAMRS from various aspects. We hope it could facilitate research in RS segmentation, particularly in large model pre-training.
 
-<img src="./assets/arXiv_2023_SAMRS/samrs.jpg" width="100%">
+<img src="./assets/arXiv_2023_SAMRS/samrs.png" width="100%">
