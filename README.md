@@ -1,3 +1,4 @@
+> ### :alarm_clock: The repo of the paper "An Empirical Study of Remote Sensing Pretraining" has been moved to [RSP](https://github.com/ViTAE-Transformer/RSP)
 <h1 align="center">Remote Sensing</h1>
 
 
