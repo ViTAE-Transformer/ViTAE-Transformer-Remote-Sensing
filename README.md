@@ -45,7 +45,7 @@ We resort to plain vision transformers with about 100M and make the first attemp
 
 ***
 
-### <span id="samrs">📘 Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model [NeurIPS-2023]</span>
+### <span id="samrs">📘 SAMRS: Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model [NeurIPS-2023]</span>
 
 <em>Di Wang, Jing Zhang, Bo Du, Minqiang Xu, Lin Liu, Dacheng Tao and Liangpei Zhang</em>.
 
