@@ -9,15 +9,15 @@ This repo contains a comprehensive list of our research works related to **Remot
 
 [1. An Empirical Study of Remote Sensing Pretraining [TGRS-2022]](#rsp)
 
-<a href="https://arxiv.org/abs/2204.02825"><img  src="https://img.shields.io/badge/arxiv-Paper-brightgreen" ></a> <a href="https://ieeexplore.ieee.org/document/9782149"><img src="https://img.shields.io/badge/TGRS-Paper-red"></a> <a href="https://github.com/ViTAE-Transformer/RSP"><img src="https://img.shields.io/github/stars/ViTAE-Transformer/RSP.svg?logo=github&label=Stars"></a>
+<a href="https://arxiv.org/abs/2204.02825"><img  src="https://img.shields.io/badge/arxiv-Paper-brightgreen" ></a> <a href="https://ieeexplore.ieee.org/document/9782149"><img src="https://img.shields.io/badge/TGRS-Paper-blue"></a> <a href="https://github.com/ViTAE-Transformer/RSP"><img src="https://img.shields.io/github/stars/ViTAE-Transformer/RSP.svg?logo=github&label=Stars&color=white"></a>
 
 [2. Advancing Plain Vision Transformer Towards Remote Sensing Foundation Model [TGRS-2022]](#rvsa)
 
-<a href="https://arxiv.org/abs/2208.03987"><img  src="https://img.shields.io/badge/arxiv-Paper-brightgreen" ></a> <a href="https://ieeexplore.ieee.org/document/9956816"><img src="https://img.shields.io/badge/TGRS-Paper-red"></a> <a href="https://github.com/https://github.com/ViTAE-Transformer/Remote-Sensing-RVSA"><img src="https://img.shields.io/github/stars/ViTAE-Transformer/Remote-Sensing-RVSA.svg?logo=github&label=Stars"></a>
+<a href="https://arxiv.org/abs/2208.03987"><img  src="https://img.shields.io/badge/arxiv-Paper-brightgreen" ></a> <a href="https://ieeexplore.ieee.org/document/9956816"><img src="https://img.shields.io/badge/TGRS-Paper-blue"></a> <a href="https://github.com/https://github.com/ViTAE-Transformer/Remote-Sensing-RVSA"><img src="https://img.shields.io/github/stars/ViTAE-Transformer/Remote-Sensing-RVSA.svg?logo=github&label=Stars&color=white"></a>
 
 [3. SAMRS: Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model [NeurIPS-2023]](#samrs)
 
-<a href="https://arxiv.org/abs/2305.02034"><img  src="https://img.shields.io/badge/arxiv-Paper-brightgreen" > <a href="https://github.com/ViTAE-Transformer/SAMRS"><img src="https://img.shields.io/github/stars/ViTAE-Transformer/SAMRS.svg?logo=github&label=Stars"></a>
+<a href="https://arxiv.org/abs/2305.02034"><img  src="https://img.shields.io/badge/arxiv-Paper-brightgreen" > <a href="https://openreview.net/forum?id=jHrgq55ftl"><img src="https://img.shields.io/badge/NeurIPS-Paper-purple"></a> <a href="https://github.com/ViTAE-Transformer/SAMRS"><img src="https://img.shields.io/github/stars/ViTAE-Transformer/SAMRS.svg?logo=github&label=Stars&color=white"></a>
 
 ## Projects
 
