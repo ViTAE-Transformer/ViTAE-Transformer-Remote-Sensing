@@ -19,6 +19,10 @@ This repo contains a comprehensive list of our research works related to **Remot
 
 <a href="https://arxiv.org/abs/2305.02034"><img  src="https://img.shields.io/badge/arxiv-Paper-brightgreen" > <a href="https://openreview.net/forum?id=jHrgq55ftl"><img src="https://img.shields.io/badge/NeurIPS-Paper-purple"></a> <a href="https://github.com/ViTAE-Transformer/SAMRS"><img src="https://img.shields.io/github/stars/ViTAE-Transformer/SAMRS.svg?logo=github&label=Stars&color=white"></a>
 
+[4. MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining [arXiv-2024]](#samrs)
+
+<a href="https://arxiv.org/abs/2403.13430"><img  src="https://img.shields.io/badge/arxiv-Paper-brightgreen" >  <a href="https://github.com/ViTAE-Transformer/MTP"><img src="https://img.shields.io/github/stars/ViTAE-Transformer/MTP.svg?logo=github&label=Stars&color=white"></a>
+
 ## Projects
 
 ### <span id="rsp">📘 An Empirical Study of Remote Sensing Pretraining [TGRS-2022]</span>
@@ -54,3 +58,15 @@ We resort to plain vision transformers with about 100M and make the first attemp
 In this study, we leverage <a href="https://arxiv.org/abs/2304.02643"> SAM </a> and existing RS object detection datasets to develop an efficient pipeline for generating a large-scale RS segmentation dataset, dubbed SAMRS. SAMRS surpasses existing high-resolution RS segmentation datasets in size by several orders of magnitude, and provides object category, location, and instance information that can be used for semantic segmentation, instance segmentation, and object detection, either individually or in combination. We also provide a comprehensive analysis of SAMRS from various aspects. We hope it could facilitate research in RS segmentation, particularly in large model pre-training.
 
 <img src="./assets/arXiv_2023_SAMRS/samrs.png" width="100%">
+
+***
+
+### <span id="samrs">📘 MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining [arXiv-2024]</span>
+
+<em>Di Wang, Jing Zhang, Minqiang Xu, Lin Liu, Dongsheng Wang, Erzhong Gao, Chengxi Han, Haonan Guo,  Bo Du, Dacheng Tao and Liangpei Zhang</em>.
+
+[Paper](https://arxiv.org/abs/2403.13430) |  [Github Code](https://github.com/ViTAE-Transformer/MTP) | [BibTex](./assets/arxiv_2024_MTP/mtp.bib)
+
+In this study, we explore the Multi-Task Pretraining (MTP) paradigm for RS foundation models. Using a shared encoder and task-specific decoder architecture, we conduct multi-task supervised pretraining on the SAMRS dataset, encompassing semantic segmentation, instance segmentation, and rotated object detection. MTP supports both convolutional neural networks and vision transformer foundation models with over 300 million parameters. The pretrained models are finetuned on various RS downstream tasks, such as scene classification, horizontal and rotated object detection, semantic segmentation, and change detection. We hope this research encourages further exploration of RS foundation models and anticipate the widespread application of these models across diverse fields of RS image interpretation.
+
+<img src="./assets/arxiv_2024_MTP/mtp.png" width="100%">
