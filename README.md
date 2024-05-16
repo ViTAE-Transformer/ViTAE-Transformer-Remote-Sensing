@@ -23,6 +23,10 @@ This repo contains a comprehensive list of our research works related to **Remot
 
 <a href="https://arxiv.org/abs/2403.13430"><img  src="https://img.shields.io/badge/arxiv-Paper-brightgreen" >  <a href="https://github.com/ViTAE-Transformer/MTP"><img src="https://img.shields.io/github/stars/ViTAE-Transformer/MTP.svg?logo=github&label=Stars&color=white"></a>
 
+[5. LeMeViT: Efficient Vision Transformer with Learnable Meta Tokens for Remote Sensing Image Interpretation [IJCAI-2024]](#lemevit)
+
+<a href=""><img src="https://img.shields.io/badge/arxiv-Paper-brightgreen" ></a> <a href="https://ieeexplore.ieee.org/document/9782149"><img src="https://img.shields.io/badge/IJCAI-Paper-blue"></a> <a href="https://github.com/ViTAE-Transformer/LeMeViT"><img src="https://img.shields.io/github/stars/ViTAE-Transformer/LeMeViT.svg?logo=github&label=Stars&color=white"></a>
+
 ## Projects
 
 ### <span id="rsp">📘 An Empirical Study of Remote Sensing Pretraining [TGRS-2022]</span>
@@ -70,3 +74,15 @@ In this study, we leverage <a href="https://arxiv.org/abs/2304.02643"> SAM </a> 
 In this study, we explore the Multi-Task Pretraining (MTP) paradigm for RS foundation models. Using a shared encoder and task-specific decoder architecture, we conduct multi-task supervised pretraining on the SAMRS dataset, encompassing semantic segmentation, instance segmentation, and rotated object detection. MTP supports both convolutional neural networks and vision transformer foundation models with over 300 million parameters. The pretrained models are finetuned on various RS downstream tasks, such as scene classification, horizontal and rotated object detection, semantic segmentation, and change detection. We hope this research encourages further exploration of RS foundation models and anticipate the widespread application of these models across diverse fields of RS image interpretation.
 
 <img src="./assets/arxiv_2024_MTP/mtp.png" width="100%">
+
+***
+
+### <span id="lemevit">📘 LeMeViT: Efficient Vision Transformer with Learnable Meta Tokens for Remote Sensing Image Interpretation [IJCAI-2024]</span>
+
+<em>Wentao Jiang, Jing Zhang, Di Wang, Qiming Zhang, Zengmao Wang and Bo Du</em>.
+
+[Paper]() |  [Github Code](https://github.com/ViTAE-Transformer/LeMeViT) | [BibTex](./assets\IJCAI_2024_LeMeViT\lemevit.bib)
+
+In this study, we proposes to use learnable meta tokens to formulate sparse tokens, which effectively learn key information meanwhile improving the inference speed. We propose Dual Cross-Attention (DCA) to promote information exchange between image tokens and meta tokens, where they serve as query and key (value) tokens alternativelyin a dual-branch structure, significantly reducingthe computational complexity compared to self-attention. Experimental results in classification and dense prediction tasks show that LeMeViT has a significant speedup, fewer parameters, and competitive performance, and achieves a better trade-off between efficiency and performance. We hope this research will advance the development of efficient RS models and facilitate the practical application of foundation models.
+
+<img src="./assets/IJCAi_2024_LeMeViT/lemevit.png" width="100%">
