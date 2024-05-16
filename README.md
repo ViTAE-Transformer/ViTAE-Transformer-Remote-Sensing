@@ -81,8 +81,8 @@ In this study, we explore the Multi-Task Pretraining (MTP) paradigm for RS found
 
 <em>Wentao Jiang, Jing Zhang, Di Wang, Qiming Zhang, Zengmao Wang and Bo Du</em>.
 
-[Paper]() |  [Github Code](https://github.com/ViTAE-Transformer/LeMeViT) | [BibTex](./assets\IJCAI_2024_LeMeViT\lemevit.bib)
+[Paper]() |  [Github Code](https://github.com/ViTAE-Transformer/LeMeViT) | [BibTex](./assets/IJCAI_2024_LeMeViT/lemevit.bib)
 
 In this study, we proposes to use learnable meta tokens to formulate sparse tokens, which effectively learn key information meanwhile improving the inference speed. We propose Dual Cross-Attention (DCA) to promote information exchange between image tokens and meta tokens, where they serve as query and key (value) tokens alternativelyin a dual-branch structure, significantly reducingthe computational complexity compared to self-attention. Experimental results in classification and dense prediction tasks show that LeMeViT has a significant speedup, fewer parameters, and competitive performance, and achieves a better trade-off between efficiency and performance. We hope this research will advance the development of efficient RS models and facilitate the practical application of foundation models.
 
-<img src="./assets/IJCAi_2024_LeMeViT/lemevit.png" width="100%">
+<img src="./assets/IJCAI_2024_LeMeViT/lemevit.png" width="100%">
