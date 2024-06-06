@@ -19,9 +19,9 @@ This repo contains a comprehensive list of our research works related to **Remot
 
 <a href="https://arxiv.org/abs/2305.02034"><img  src="https://img.shields.io/badge/arxiv-Paper-brightgreen" > <a href="https://openreview.net/forum?id=jHrgq55ftl"><img src="https://img.shields.io/badge/NeurIPS-Paper-purple"></a> <a href="https://github.com/ViTAE-Transformer/SAMRS"><img src="https://img.shields.io/github/stars/ViTAE-Transformer/SAMRS.svg?logo=github&label=Stars&color=white"></a>
 
-[4. MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining [arXiv-2024]](#samrs)
+[4. MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining [JSTARS-2024]](#mtp)
 
-<a href="https://arxiv.org/abs/2403.13430"><img  src="https://img.shields.io/badge/arxiv-Paper-brightgreen" >  <a href="https://github.com/ViTAE-Transformer/MTP"><img src="https://img.shields.io/github/stars/ViTAE-Transformer/MTP.svg?logo=github&label=Stars&color=white"></a>
+<a href="https://arxiv.org/abs/2403.13430"><img  src="https://img.shields.io/badge/arxiv-Paper-brightgreen" > <a href="https://ieeexplore.ieee.org/document/10547536"><img src="https://img.shields.io/badge/JSTARS-Paper-green"></a> <a href="https://github.com/ViTAE-Transformer/MTP"><img src="https://img.shields.io/github/stars/ViTAE-Transformer/MTP.svg?logo=github&label=Stars&color=white"></a>
 
 [5. LeMeViT: Efficient Vision Transformer with Learnable Meta Tokens for Remote Sensing Image Interpretation [IJCAI-2024]](#lemevit)
 
@@ -65,7 +65,7 @@ In this study, we leverage <a href="https://arxiv.org/abs/2304.02643"> SAM </a> 
 
 ***
 
-### <span id="samrs">📘 MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining [arXiv-2024]</span>
+### <span id="mtp">📘 MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining [JSTARS-2024]</span>
 
 <em>Di Wang, Jing Zhang, Minqiang Xu, Lin Liu, Dongsheng Wang, Erzhong Gao, Chengxi Han, Haonan Guo,  Bo Du, Dacheng Tao and Liangpei Zhang</em>.
 
